@@ -32,6 +32,8 @@ My name is Luan, I'm 24 years old and I'm transitioning careers, I changed my co
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Luan-Alberti&bg_color=0a0f0b&border_color=e4e2e2&title_color=abd200&text_color=68b587)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Luan-Alberti&theme=merko)](https://git.io/streak-stats)
+
 
 ## My Contributions
 ![Contributions](https://img.shields.io/badge/-Lots%20to%20learn%20and%20contribute,%20expect%20more%20soon!!-91B302?style=for-the-badge)
