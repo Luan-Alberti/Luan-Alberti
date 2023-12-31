@@ -1,4 +1,4 @@
-# Luan Alberti
+# Luan Alberti 
 My name is Luan, I'm 24 years old and I'm transitioning careers, I changed my course at university. I used to do Business Administration and now I've switched to Systems Analysis and Development! I'm learning a lot by taking courses parallel to college, including DIO's bootcamp courses! I'm studying and learning a lot! Let's connect to exchange experiences and ideas!
 
 ## Connect with me!
