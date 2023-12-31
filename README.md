@@ -29,15 +29,15 @@ My name is Luan, I'm 24 years old and I'm transitioning careers, I changed my co
 - ⚡ Fun fact: ... To play a game with me, just look for Xankssss 👒☠️🗡️🌊
 
 ## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luan-Alberti&theme=merko)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luan-Alberti&theme=yeblu)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Alberti&bg_color=0a0f0b&border_color=e4e2e2&title_color=abd200&text_color=68b587)](https://github.com/Luan-Alberti/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Alberti&theme=yeblu)](https://github.com/Luan-Alberti/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Luan-Alberti&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Luan-Alberti&theme=yeblu)](https://git.io/streak-stats)
 
 
 ## My Contributions
-![Contributions](https://img.shields.io/badge/-Lots%20to%20learn%20and%20contribute,%20expect%20more%20soon!!-91B302?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/-Lots%20to%20learn%20and%20contribute,%20expect%20more%20soon!!-FFFF00?style=for-the-badge)
 
 
 <!--
