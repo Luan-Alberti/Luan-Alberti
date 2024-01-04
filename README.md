@@ -30,7 +30,8 @@ My name is Luan, I'm 24 years old and I'm transitioning careers, I changed my co
 - ⚡ Fun fact: ... To play a game with me, just look for Xankssss 👒☠️🗡️🌊
 
 ## Github Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luan-Alberti&theme=yeblu)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Luan-Alberti&theme=yeblu&show_icons=true)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Luan-Alberti&theme=yeblu)
 
